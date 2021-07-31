@@ -1,0 +1,21 @@
+/Users/lluismasdeu/.conda/envs/Ex2_Data_Mining/bin/python /Users/lluismasdeu/PycharmProjects/Ex2_Data_Mining/processDataMining_assignment.py
+Classe X: La mitjana aritmètica de les dades és  4.884164579855314
+Classe Y: La mitjana aritmètica de les dades és  4.490818030050083
+Classe X: La desviació típica de les dades és  6.016787548672236
+Classe Y: La desviació típica de les dades és  2.864506423320853
+Classe X: Tenim  1797  imatges de 8x8 (representats en tuples de 64)
+Classe Y: Tenim  1797  dades
+[Projecció PCA (2 components)] Variança:  [0.14611061 0.13779618]  - Valors singulars:  [468.98173448 455.44258403]
+[Projecció PCA (2 components)] Variança:  [0.1236436 0.0968115]  - Valors singulars:  [96.56707519 85.44895202]
+[Projecció SVD-T (2 components)] Variança:  [0.0280339  0.14610943]
+[Projecció SVD-T (2 components)] Variança:  [0.1236436  0.09681149]
+[Projecció LDA (2 components)] Variança:  [0.29265785 0.18366644]
+/Users/lluismasdeu/.conda/envs/Ex2_Data_Mining/lib/python2.7/site-packages/sklearn/discriminant_analysis.py:388: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+[Projecció LDA (2 components)] Variança:  [0.29265785 0.18366644]
+[Validació creuada PCA] Veïns més propers:  [15, 18, 12, 11, 5, 6, 3, 3, 1, 1]
+[Validació creuada PCA] Veïns més propers:  [11, 15, 9, 12, 6, 7, 7, 1, 3, 3]
+[Validació creuada SVD-T] Veïns més propers:  [14, 8, 19, 8, 12, 7, 5, 3, 3, 1]
+[Validació creuada SVD-T] Veïns més propers:  [15, 15, 9, 12, 6, 7, 7, 1, 1, 3]
+
+Process finished with exit code 0
